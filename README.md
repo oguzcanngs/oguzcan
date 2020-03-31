@@ -1,0 +1,2 @@
+# oguzcan
+kod learning
